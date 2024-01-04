@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Long",
+    "age": 52,
+    "address": {
+        "street": "Frye Rapid",
+        "city": "North Kevinville",
+        "state": "Maine",
+        "zip": "07823"
+    },
+    "contact": {
+        "phone": "(273)597-7236x391",
+        "servicePhone": "800731816"
+    },
+    "birthday": "1973-27-05",
+    "ip": "202.105.133.86",
+    "foo": "bar",
+    "profile": {
+        "about": "With have its avoid left result vote. Relationship dark central police either lead almost.\nReport along according hope father west half. Nation us base into one possible.",
+        "bio": "Cut hot fire lose exactly class. Either hundred spring forget hundred name see medical. Order sister report build four entire nothing. Few someone for serious record movie."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
