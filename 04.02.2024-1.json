@@ -1,0 +1,25 @@
+{
+    "name": "Denise Navarro",
+    "age": 46,
+    "address": {
+        "street": "Rios Points",
+        "city": "South Kevinburgh",
+        "state": "Minnesota",
+        "zip": "50629"
+    },
+    "contact": {
+        "phone": "+1-448-612-2930x952",
+        "servicePhone": "800742112"
+    },
+    "birthday": "1979-03-02",
+    "ip": "215.78.209.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Different book want worker. Suddenly she none law couple then benefit.",
+        "bio": "Vote carry glass visit here. Rich my doctor today story season. Raise smile behavior piece good difference."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
