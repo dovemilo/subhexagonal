@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Hart",
+    "age": 73,
+    "address": {
+        "street": "Rodriguez Avenue",
+        "city": "South Garychester",
+        "state": "Virginia",
+        "zip": "09968"
+    },
+    "contact": {
+        "phone": "001-310-723-0722x5458",
+        "servicePhone": "800744639"
+    },
+    "birthday": "1952-11-05",
+    "ip": "138.31.252.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Through trial water politics choice a pass. Though enough thus visit small key information.\nTraining their base high summer. Hand about hundred surface country expert.\nReflect bar now simple spring.",
+        "bio": "Assume wish trouble husband. Middle admit wish. Grow view few center sport feel job.\nEast simple dinner."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
