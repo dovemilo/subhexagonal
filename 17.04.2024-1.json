@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Williams",
+    "age": 58,
+    "address": {
+        "street": "Smith Stravenue",
+        "city": "Barnettberg",
+        "state": "Arkansas",
+        "zip": "93991"
+    },
+    "contact": {
+        "phone": "610.304.1793",
+        "servicePhone": "800300605"
+    },
+    "birthday": "1967-27-03",
+    "ip": "24.150.189.146",
+    "foo": "bar",
+    "profile": {
+        "about": "This little could. Practice sing try traditional side task. Fact area many despite not base laugh. Once cell decade according white trade.",
+        "bio": "Resource everything ok. Back color law crime clear artist again.\nTable television network respond. Show during make seek loss about network article. Power make start various bed."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
