@@ -1,0 +1,25 @@
+{
+    "name": "Paula Pierce",
+    "age": 52,
+    "address": {
+        "street": "Jennifer Valleys",
+        "city": "Kevintown",
+        "state": "Maryland",
+        "zip": "68508"
+    },
+    "contact": {
+        "phone": "571.836.6870x01240",
+        "servicePhone": "800068141"
+    },
+    "birthday": "1973-10-11",
+    "ip": "155.8.97.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight old them machine seem central. Product spring also trial a arrive family. Various five notice wish.\nStock early here star. Nation build such read home study sound unit.",
+        "bio": "Total quality top word. Wide approach require. Produce shake size not range.\nProtect cell medical magazine car age not. Carry participant talk. Fly media speech smile never such."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
