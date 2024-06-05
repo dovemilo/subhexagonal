@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Hernandez",
+    "age": 27,
+    "address": {
+        "street": "Aaron Trace",
+        "city": "West Douglasmouth",
+        "state": "Indiana",
+        "zip": "75085"
+    },
+    "contact": {
+        "phone": "497-840-3165x3074",
+        "servicePhone": "800020084"
+    },
+    "birthday": "1998-26-02",
+    "ip": "194.110.137.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect call camera. Service car catch.\nRadio reality method final effort. Someone company say data last toward happen throughout.",
+        "bio": "Central like identify hard indeed material feeling. Whatever maybe executive him bring.\nSmile face relate decide likely fund so. Remember leader successful probably western."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
