@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jacqueline Briggs",
+    "age": 107,
+    "address": {
+        "street": "Cordova Hill",
+        "city": "South Melaniemouth",
+        "state": "New Jersey",
+        "zip": "37652"
+    },
+    "contact": {
+        "phone": "807-943-6173",
+        "servicePhone": "800117635"
+    },
+    "birthday": "1918-05-02",
+    "ip": "37.11.114.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody early evening organization better area contain foreign. Consumer brother stuff available according. Seven worker travel while decade push smile walk.",
+        "bio": "Pay technology option continue. Support box family condition security food. Score then box point model daughter act.\nReady newspaper fall moment five."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
