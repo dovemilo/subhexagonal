@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Hernandez",
+    "age": 14,
+    "address": {
+        "street": "Nicholas Islands",
+        "city": "Scottview",
+        "state": "Illinois",
+        "zip": "72488"
+    },
+    "contact": {
+        "phone": "(977)353-2757x80157",
+        "servicePhone": "800157214"
+    },
+    "birthday": "2011-10-08",
+    "ip": "126.76.60.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Your anything civil south. General follow fire third speak during. Her interest our leader. Peace painting figure no recent deal.",
+        "bio": "Here someone character quality. Wide blue majority newspaper offer section.\nHis price conference process once science staff."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
