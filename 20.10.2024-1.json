@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Campos",
+    "age": 83,
+    "address": {
+        "street": "Ronald Junctions",
+        "city": "East Alisonview",
+        "state": "South Carolina",
+        "zip": "90782"
+    },
+    "contact": {
+        "phone": "6133923234",
+        "servicePhone": "800303085"
+    },
+    "birthday": "1942-13-10",
+    "ip": "180.29.7.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist rock radio girl use however plan. Fill pressure hotel team father. Last couple would if light just.",
+        "bio": "Pass wonder Republican trouble face. Baby evidence guess data also quickly less. Find throughout of."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
