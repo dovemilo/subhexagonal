@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Allen",
+    "age": 14,
+    "address": {
+        "street": "Hall Key",
+        "city": "North Charlesland",
+        "state": "Hawaii",
+        "zip": "52898"
+    },
+    "contact": {
+        "phone": "(937)335-4164x3070",
+        "servicePhone": "800994473"
+    },
+    "birthday": "2011-28-03",
+    "ip": "21.67.104.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple prepare process hand suggest rich. Organization meet worry home between almost campaign year. Listen practice different important might man never.",
+        "bio": "Spend understand under decision reveal thing. Eat stop morning all real.\nSecurity their realize knowledge bill investment return.\nIndividual friend reflect. Join across not me out pattern."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
