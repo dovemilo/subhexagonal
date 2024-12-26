@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Bell",
+    "age": 46,
+    "address": {
+        "street": "Brian Key",
+        "city": "Lake Ryantown",
+        "state": "Georgia",
+        "zip": "76745"
+    },
+    "contact": {
+        "phone": "+1-568-590-0267x044",
+        "servicePhone": "800443480"
+    },
+    "birthday": "1979-03-05",
+    "ip": "67.207.165.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate street probably interview language little. Community one onto book. Attack general local sometimes view. Difficult become from back information manager life.",
+        "bio": "Way maintain million while.\nProperty rich force off kind. Nice fight common dream beyond free. Resource detail smile fill board change level green."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
