@@ -1,0 +1,25 @@
+{
+    "name": "Christine Williams",
+    "age": 55,
+    "address": {
+        "street": "Fitzgerald Skyway",
+        "city": "Coryburgh",
+        "state": "Pennsylvania",
+        "zip": "77530"
+    },
+    "contact": {
+        "phone": "(363)631-3844x2915",
+        "servicePhone": "800816636"
+    },
+    "birthday": "1970-22-06",
+    "ip": "116.234.117.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Person that say artist. Candidate citizen tonight buy tend performance now. World single including in unit behavior.",
+        "bio": "Company look special under season fear view. Him race woman detail color alone seven require."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
