@@ -1,0 +1,25 @@
+{
+    "name": "Laura Best",
+    "age": 110,
+    "address": {
+        "street": "Howard Mountains",
+        "city": "Odomfort",
+        "state": "Utah",
+        "zip": "13064"
+    },
+    "contact": {
+        "phone": "+1-803-718-9452",
+        "servicePhone": "800303356"
+    },
+    "birthday": "1915-25-05",
+    "ip": "18.50.11.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Form contain mission themselves six matter campaign. Life worker show already appear.\nShould idea soldier never issue.\nTo energy surface development human issue door.\nOwner fast thousand from follow.",
+        "bio": "East knowledge today than keep stay material.\nSecond where painting century state campaign assume. Letter make blue morning maintain suffer might."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
