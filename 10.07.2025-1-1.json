@@ -1,0 +1,25 @@
+{
+    "name": "Philip Davis",
+    "age": 103,
+    "address": {
+        "street": "Humphrey Plains",
+        "city": "Jacksonmouth",
+        "state": "Nevada",
+        "zip": "78320"
+    },
+    "contact": {
+        "phone": "312-499-0776",
+        "servicePhone": "800390037"
+    },
+    "birthday": "1922-17-04",
+    "ip": "90.115.185.203",
+    "foo": "bar",
+    "profile": {
+        "about": "While despite worry firm may believe mission. Exist past scientist key site finish late. Example example thank thing. Address rock child thought effect.",
+        "bio": "White action a different candidate team. Lay case several. Culture appear begin lot Republican.\nNot particularly hundred our customer. Occur fish quite hotel tend social red."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
