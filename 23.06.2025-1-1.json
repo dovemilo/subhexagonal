@@ -1,0 +1,25 @@
+{
+    "name": "Mary Barron",
+    "age": 54,
+    "address": {
+        "street": "Faulkner Manor",
+        "city": "Lake Jodyfort",
+        "state": "New Mexico",
+        "zip": "51628"
+    },
+    "contact": {
+        "phone": "(304)452-2090x030",
+        "servicePhone": "800747275"
+    },
+    "birthday": "1971-12-07",
+    "ip": "34.193.13.211",
+    "foo": "bar",
+    "profile": {
+        "about": "View someone matter final. Week person allow probably. Evening hundred picture certain upon while protect. Perhaps example often practice think.",
+        "bio": "Certain new skin glass civil interest important strong. Get practice month wish.\nMedia mind tell room doctor message history spend. Know religious bank indicate remember."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

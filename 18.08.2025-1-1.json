@@ -1,0 +1,25 @@
+{
+    "name": "Angela Pham",
+    "age": 78,
+    "address": {
+        "street": "Juarez Center",
+        "city": "Port Josetown",
+        "state": "Iowa",
+        "zip": "61365"
+    },
+    "contact": {
+        "phone": "+1-472-962-8035x33617",
+        "servicePhone": "800151236"
+    },
+    "birthday": "1947-08-01",
+    "ip": "52.179.52.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Today another adult picture study play college name. Point relate standard. Poor loss two particular.\nLikely eye better detail community. Man all audience both your. Large effort plant edge be.",
+        "bio": "Course rise more. After defense gas until admit various thing make. Change everything recognize rock best despite style."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

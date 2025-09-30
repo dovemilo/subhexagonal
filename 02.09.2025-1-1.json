@@ -1,0 +1,25 @@
+{
+    "name": "John Farley",
+    "age": 7,
+    "address": {
+        "street": "Garcia Road",
+        "city": "Jennifermouth",
+        "state": "Pennsylvania",
+        "zip": "88532"
+    },
+    "contact": {
+        "phone": "786.925.1565x84278",
+        "servicePhone": "800174275"
+    },
+    "birthday": "2018-19-04",
+    "ip": "69.93.25.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Yard character theory friend southern. Watch voice fact can a high.",
+        "bio": "Follow get night pattern major. Physical smile work.\nTreat democratic age difference certainly art also. Scene everyone film shoulder increase analysis personal. My our power."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
