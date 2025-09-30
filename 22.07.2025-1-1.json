@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Gomez",
+    "age": 9,
+    "address": {
+        "street": "Shelley Shore",
+        "city": "East Marc",
+        "state": "Vermont",
+        "zip": "17235"
+    },
+    "contact": {
+        "phone": "2533471822",
+        "servicePhone": "800765530"
+    },
+    "birthday": "2016-08-10",
+    "ip": "38.229.91.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Move support will develop actually. Whose southern old research card bed. Modern bank new change old.",
+        "bio": "Who woman forward call write. Seek animal teach nor.\nInterest home fill accept. Report draw turn billion how. Firm guess low step."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

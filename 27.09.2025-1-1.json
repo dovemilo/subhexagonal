@@ -1,0 +1,25 @@
+{
+    "name": "Richard Parsons",
+    "age": 85,
+    "address": {
+        "street": "Lewis Plains",
+        "city": "Carltown",
+        "state": "Utah",
+        "zip": "40423"
+    },
+    "contact": {
+        "phone": "478-350-8625",
+        "servicePhone": "800173492"
+    },
+    "birthday": "1940-12-09",
+    "ip": "80.227.7.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Article game oil alone concern society realize show. Particular value herself next lot health. Size that yourself left.\nHard fly commercial important hit agree. Brother dark manager table hotel.",
+        "bio": "Environment senior worry else understand. Teach wait speak southern nor today.\nPage big hand do newspaper keep boy. Amount customer price off determine person she."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
