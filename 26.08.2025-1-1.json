@@ -1,0 +1,25 @@
+{
+    "name": "Heather Smith",
+    "age": 47,
+    "address": {
+        "street": "Justin Rue",
+        "city": "Port Bryanside",
+        "state": "Idaho",
+        "zip": "86766"
+    },
+    "contact": {
+        "phone": "445.575.0104x4692",
+        "servicePhone": "800758128"
+    },
+    "birthday": "1978-05-08",
+    "ip": "152.197.76.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Then growth project woman toward few tonight east. Same side gun any plant his story. Billion sing eat remember often against try.",
+        "bio": "Cut amount police Democrat. Discuss anything speak baby message.\nBeautiful raise name their. Term as every along four fall religious."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
