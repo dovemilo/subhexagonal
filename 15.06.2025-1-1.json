@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Mclaughlin",
+    "age": 34,
+    "address": {
+        "street": "Campbell Causeway",
+        "city": "Smithbury",
+        "state": "Florida",
+        "zip": "65714"
+    },
+    "contact": {
+        "phone": "+1-832-716-7885x2769",
+        "servicePhone": "800258739"
+    },
+    "birthday": "1991-18-08",
+    "ip": "153.190.71.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh shoulder glass others maintain hold law. Here push sit build information item perhaps. Manager night help history system town drop.",
+        "bio": "Realize audience raise feel process brother hope tree. Ability piece discussion night data. Bill mission animal window whole material ground."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
