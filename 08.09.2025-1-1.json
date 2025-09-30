@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Brown",
+    "age": 104,
+    "address": {
+        "street": "Elizabeth Gardens",
+        "city": "Peterville",
+        "state": "Massachusetts",
+        "zip": "79575"
+    },
+    "contact": {
+        "phone": "9929635162",
+        "servicePhone": "800344321"
+    },
+    "birthday": "1921-17-12",
+    "ip": "222.63.0.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe myself start nearly at. Lead star throw Democrat. Stuff guy however poor forward between language.\nAt if we speak cut identify still billion.",
+        "bio": "How suddenly physical present. Address reality character before management well.\nOwner home particular need part. Picture thought mention soon radio yourself."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

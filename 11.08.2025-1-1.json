@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Morales",
+    "age": 81,
+    "address": {
+        "street": "Lopez Centers",
+        "city": "Savagemouth",
+        "state": "Nebraska",
+        "zip": "63950"
+    },
+    "contact": {
+        "phone": "(305)828-3170",
+        "servicePhone": "800816038"
+    },
+    "birthday": "1944-29-10",
+    "ip": "192.114.20.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit relate group. Help bag business especially. Represent teach lose both guy.\nForm factor move condition. Teach behavior food accept provide agree first. Soon break song in could sit.",
+        "bio": "Public television arm piece. Commercial style culture control some site.\nConcern these various feel."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

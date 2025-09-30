@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Anderson",
+    "age": 19,
+    "address": {
+        "street": "Lewis Circles",
+        "city": "South Scott",
+        "state": "Wisconsin",
+        "zip": "40077"
+    },
+    "contact": {
+        "phone": "787-389-3786",
+        "servicePhone": "800809357"
+    },
+    "birthday": "2006-29-04",
+    "ip": "196.207.65.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement only rule. First administration pull page someone agency watch.\nAgree floor such size. Born color day lawyer best growth. Save stop process rock garden at find.",
+        "bio": "Minute space writer worker take institution research win. Window woman speech. Old hope eye stock. Development eight about page easy else."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
