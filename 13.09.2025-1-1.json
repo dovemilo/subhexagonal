@@ -1,0 +1,25 @@
+{
+    "name": "Denise Carr",
+    "age": 52,
+    "address": {
+        "street": "Wright Trafficway",
+        "city": "Lake Billy",
+        "state": "Idaho",
+        "zip": "30779"
+    },
+    "contact": {
+        "phone": "(665)457-5541x6998",
+        "servicePhone": "800596393"
+    },
+    "birthday": "1973-13-03",
+    "ip": "59.95.111.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Form describe phone home I back morning trip. Break many age avoid million head summer figure. System lead arm stand green control herself.",
+        "bio": "Fast question each put man arm. Ball side style.\nKnowledge name shoulder half. Voice according too sign reduce. Each these subject television record. Time various difficult resource."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
