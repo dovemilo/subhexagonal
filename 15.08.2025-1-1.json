@@ -1,0 +1,25 @@
+{
+    "name": "Denise Davis",
+    "age": 37,
+    "address": {
+        "street": "Nicholas Street",
+        "city": "West Julian",
+        "state": "Delaware",
+        "zip": "21636"
+    },
+    "contact": {
+        "phone": "+1-554-785-0804x3614",
+        "servicePhone": "800510667"
+    },
+    "birthday": "1988-30-06",
+    "ip": "140.216.211.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Not including simple someone future.\nToward final he can step talk. Structure job customer future.\nWorld return eight section may. Church same draw collection person.",
+        "bio": "End turn participant personal her change along. Skin cold learn deep. Write cup church writer.\nFinally bar section cover art. Theory way above politics half nothing. Daughter oil ask military."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
