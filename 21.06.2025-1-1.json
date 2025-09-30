@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Morales",
+    "age": 84,
+    "address": {
+        "street": "Zamora Crest",
+        "city": "North Audreystad",
+        "state": "Kansas",
+        "zip": "70707"
+    },
+    "contact": {
+        "phone": "2324427677",
+        "servicePhone": "800596578"
+    },
+    "birthday": "1941-14-02",
+    "ip": "26.58.109.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe president want pattern important. Including grow raise buy student everybody major. Without whose baby we trade name financial. Particular action play manager power interest.",
+        "bio": "Protect relationship by threat. Sort little good peace answer floor prepare.\nTruth public deep positive. Role institution everyone live difference white cause. Increase act stop always job anything."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
