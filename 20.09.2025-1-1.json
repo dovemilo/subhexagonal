@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Nelson",
+    "age": 14,
+    "address": {
+        "street": "Graham Groves",
+        "city": "North Elizabethchester",
+        "state": "North Carolina",
+        "zip": "51431"
+    },
+    "contact": {
+        "phone": "+1-584-843-4537x2127",
+        "servicePhone": "800244092"
+    },
+    "birthday": "2011-17-11",
+    "ip": "53.141.194.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply kind wonder itself nature but. Guess any clear people want above. Threat home trade edge.",
+        "bio": "Raise direction difference inside have. Eat attorney apply establish rather seek brother."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
